@@ -1,0 +1,23 @@
+Keywords,Meaning
+#-*-coding:utf-8-*-,Define the encoding of file
+print '' %,Output content
+*/-%+-,Calculation
+True/False,Boolean
+“””,Comments
+%r %d %s \n \t,Control flag
+while True: for in []:,Logic control
+raw_input(),Accept the input from keyboard
+int(),Change to integer
+pydoc file,python document
+from sys import argv,import package
+open(filename),Open file
+file.read(),read opened file
+file.truncate(),Truncate file
+file.write(),Write content to file
+file.close(),Close the file
+file.seek(0),Locate to specific byte
+file.readline(),read file by line
+exists(filename),Check the file exist or not
+os.path,internal package
+def funcation_name():,define function
+return,Return value from function
